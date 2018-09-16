@@ -74,3 +74,6 @@ Most of the people are trying to learn Linux but they fail due to no direction t
 57. ## A Complete RHCSA and RHCE course content - http://bit.ly/2a2nxvC
 
 http://bit.ly/2a2nxvC
+
+
+for linux man page reference  and bash scripting advance https://linux.die.net
